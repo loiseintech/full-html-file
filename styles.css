@@ -1,0 +1,50 @@
+#route {
+    width: 150px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 30%;
+}
+
+#logo{
+    width: 50px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 10%;
+}
+#hero{
+    width: 600px;
+    height: 300px;
+    margin: 30px;
+    border-radius: 10%;
+    background-image: url("images/pang-yuhao-_kd5cxwZOK4-unsplash.jpg") center/cover no-repeat;
+}
+table{
+    border: 2;
+    padding: 2%;
+    border-radius: 10%;
+}
+h1{
+    color: rgb(68, 8, 8);
+    font-family: inherit;
+}
+h2{
+    color:rgb(66, 39, 3);
+    font-size: larger;
+}
+h3{
+    color: rgb(83, 4, 4);
+    font-weight: 200;
+}
+header{ 
+    background-color: rgb(179, 172, 172);
+    padding: 15px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    margin-left: 18px;
+}
+
+nav ul li{
+    margin-left: 15px;
+}
